@@ -1,4 +1,4 @@
-#🌾 Crop-Recommendation-System
+# 🌾 Crop-Recommendation-System
 A machine learning-powered web application designed to help farmers select the most suitable crops based on environmental and soil conditions.
 
 ## 🚀 Project Overview
